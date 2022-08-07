@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshay-17
 - 👀 I’m interested in freelancing and software development
-- 🌱 I’m currently learning React 
-- 💞️ I’m working in josh software
+- 🌱 I’m currently working on spring boot and react
+- 💞️ I’m working in Stayflexi
 - 📫 How to reach me akshaykhandelwal06@gmail.com
 
 <!---
